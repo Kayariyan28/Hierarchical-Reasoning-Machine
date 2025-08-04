@@ -1,0 +1,13 @@
+hierarchical-reasoning-model/
+├── src/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── data.py
+│   ├── model.py
+│   ├── train.py
+│   └── evaluate.py
+├── .gitignore
+├── LICENSE
+├── README.md
+├── main.py
+└── requirements.txt
